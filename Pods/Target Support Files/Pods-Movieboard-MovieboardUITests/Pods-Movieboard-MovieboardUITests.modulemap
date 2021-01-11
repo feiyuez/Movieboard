@@ -1,0 +1,6 @@
+framework module Pods_Movieboard_MovieboardUITests {
+  umbrella header "Pods-Movieboard-MovieboardUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

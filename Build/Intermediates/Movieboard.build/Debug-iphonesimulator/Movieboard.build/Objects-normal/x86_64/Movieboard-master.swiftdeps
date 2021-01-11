@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "f9a62b8c04484fc4077424ad253b2812"
+build_time: [1610385399, 539221000]
+inputs:
+  "/Users/feiyue/Projects/Movieboard/Movieboard/ViewController.swift": [1610378486, 384229940]
+  "/Users/feiyue/Projects/Movieboard/Movieboard/AppDelegate.swift": [1610378486, 360588055]
+  "/Users/feiyue/Projects/Movieboard/Movieboard/SceneDelegate.swift": [1610378486, 381765852]
+  "/Users/feiyue/Projects/Movieboard/Movieboard/MovieCell.swift": [1610383651, 494158224]
+  "/Users/feiyue/Projects/Movieboard/Movieboard/MoviesViewController.swift": [1610385399, 452246165]

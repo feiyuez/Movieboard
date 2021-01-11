@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "67159c9e4c0c33285edc2b0f6b6c7e5f"
+build_time: [1610385434, 909221000]
+inputs:
+  "/Users/feiyue/Projects/Movieboard/Pods/AlamofireImage/Source/AFIError.swift": [1610385088, 231435395]
+  "/Users/feiyue/Projects/Movieboard/Pods/AlamofireImage/Source/Image.swift": [1610385088, 231629859]
+  "/Users/feiyue/Projects/Movieboard/Pods/AlamofireImage/Source/ImageCache.swift": [1610385088, 230954142]
+  "/Users/feiyue/Projects/Movieboard/Pods/AlamofireImage/Source/ImageDownloader.swift": [1610385088, 232350985]
+  "/Users/feiyue/Projects/Movieboard/Pods/AlamofireImage/Source/ImageFilter.swift": [1610385088, 233203058]
+  "/Users/feiyue/Projects/Movieboard/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1610385088, 232929625]
+  "/Users/feiyue/Projects/Movieboard/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1610385088, 231916152]
+  "/Users/feiyue/Projects/Movieboard/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1610385088, 231184686]
+  "/Users/feiyue/Projects/Movieboard/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1610385088, 232675484]
